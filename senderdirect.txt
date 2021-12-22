@@ -1,0 +1,2 @@
+senderdirect._domainkey	IN	TXT	( "v=DKIM1; k=rsa; "
+	  "p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCy085UwSEJoPkGC6i8NfeBhe+Ds06IGdrqYiD4/701l1t6D5fnD5CvevxCpWu7Z+yxDWcBvtH/le2IkPx0I2N4xXoJZRBCv4Xu6QY4TCNt2EnAHphALjKR3KMUTpk8JsD7aHSBnV3HnHD5afdH+ijRcdufaS3XaG5ADWL2SSBsGQIDAQAB" )  ; ----- DKIM key senderdirect for e.buscatrips.com

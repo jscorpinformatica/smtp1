@@ -1,0 +1,23 @@
+{
+    "name": "jscorp/robots",
+    "authors": [
+        {
+            "name": "Tecnologia",
+            "email": "tecnologia@jscorp.com.br"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.0",
+        "floriansemm/official-library-php-email-parser": "^1.0",
+        "joshcam/mysqli-database-class": "dev-master"
+    },
+   "autoload": {
+     "files": [
+       "includes/config.php"
+     ],
+     "classmap": [
+       "includes/classes/"
+     ]
+   }
+    
+}
